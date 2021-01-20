@@ -1,6 +1,6 @@
-# MyFirstReport
-Introduction to python
+# MyFirstRepo
+
 
 This readme file was created by: Qui Ngo
 
-This is mt first repo
+This is my first repo
